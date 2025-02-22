@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "config": "^3.3.12",
+    "nodemailer": "^6.9.16",
+    "path": "^0.12.7"
+  },
+  "name": "emails",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "emails",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

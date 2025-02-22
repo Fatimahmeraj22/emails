@@ -1,0 +1,19 @@
+get your email address : merajfaate@gmail.com
+google search  (app password ) add name and get passsowrd 
+
+email : merajfaate@gmail.com 
+app password : jmwq jxvs ekvc ugjb
+
+npm install nodemailer 
+npm install config
+mkdir config && cd config
+touch deafult.json 
+
+make sure there is no space in password 
+make sure you dont share your app password 
+if shared then delelte it from app password webdite 
+
+{
+    "USER": "merajfaate@gmail.com"
+    "PASS": 
+}
